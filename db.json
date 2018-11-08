@@ -1,35 +1,5 @@
-{ "a_cappella_groups":
-  [
-    {
-      "id": 1,
-      "name": "SoCal VoCals",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Southern California",
-        "state": "CA",
-        "division": "West"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Sirens",
-      "membership": "soprano/alto",
-        "college": {
-        "name": "University of Southern California",
-        "state": "CA",
-        "division": "West"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Amazin' Blue",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Michigan",
-        "state": "MI",
-        "division": "East"
-      }
-    },
+{
+  "a_cappella_groups": [
     {
       "id": 4,
       "name": "Off the Beat",
@@ -151,9 +121,9 @@
       }
     },
     {
-    "id": 16,
-    "name": "Academical Village People",
-    "membership": "tenor/bass",
+      "id": 16,
+      "name": "Academical Village People",
+      "membership": "tenor/bass",
       "college": {
         "name": "University of Virginia",
         "state": "VA",
@@ -194,16 +164,6 @@
       "id": 20,
       "name": "Chorallaries",
       "membership": "mixed",
-      "college": {
-        "name": "Massachusetts Institute of Technology",
-        "state": "MA",
-        "division": "East"
-      }
-    },
-    {
-      "id": 21,
-      "name": "Logarhythms",
-      "membership": "tenor/bass",
       "college": {
         "name": "Massachusetts Institute of Technology",
         "state": "MA",
