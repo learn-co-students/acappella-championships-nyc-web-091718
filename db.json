@@ -1,5 +1,5 @@
-{ "a_cappella_groups":
-  [
+{
+  "a_cappella_groups": [
     {
       "id": 1,
       "name": "SoCal VoCals",
@@ -14,7 +14,7 @@
       "id": 2,
       "name": "Sirens",
       "membership": "soprano/alto",
-        "college": {
+      "college": {
         "name": "University of Southern California",
         "state": "CA",
         "division": "West"
@@ -27,26 +27,6 @@
       "college": {
         "name": "University of Michigan",
         "state": "MI",
-        "division": "East"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Off the Beat",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Pennsylvania",
-        "state": "PA",
-        "division": "East"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Amalgamates",
-      "membership": "mixed",
-      "college": {
-        "name": "Tufts University",
-        "state": "MA",
         "division": "East"
       }
     },
@@ -151,9 +131,9 @@
       }
     },
     {
-    "id": 16,
-    "name": "Academical Village People",
-    "membership": "tenor/bass",
+      "id": 16,
+      "name": "Academical Village People",
+      "membership": "tenor/bass",
       "college": {
         "name": "University of Virginia",
         "state": "VA",
@@ -194,16 +174,6 @@
       "id": 20,
       "name": "Chorallaries",
       "membership": "mixed",
-      "college": {
-        "name": "Massachusetts Institute of Technology",
-        "state": "MA",
-        "division": "East"
-      }
-    },
-    {
-      "id": 21,
-      "name": "Logarhythms",
-      "membership": "tenor/bass",
       "college": {
         "name": "Massachusetts Institute of Technology",
         "state": "MA",
